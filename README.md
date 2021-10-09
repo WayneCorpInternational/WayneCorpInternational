@@ -1,7 +1,7 @@
 ### Hi there, I'm Matheus, aka Matt, welcome to my GitHub page! - 👋
 
 
-## I'm a Student, Developer, and Cook!!!!
+## I'm a Student, Junior Developer, and Cook!!!!
 
 - 🔭 I just started in this world of coding, I am currently studying Information Systems at University, also participating in a BootCamp to become a Junior Full Stack Web Developer at Generation Brazil.
 - 🌱 I'm currently learning everything. 
