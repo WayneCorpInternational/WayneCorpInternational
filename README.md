@@ -3,7 +3,7 @@
 
 ## I'm a Student, Junior Developer, and Cook!!!!
 
-- 🔭 I just started in this world of coding, I am currently studying Information Systems at University, also participating in a BootCamp to become a Junior Full Stack Web Developer at Generation Brazil.
+- 🔭 I just started in this world of coding, I am currently studying Information Systems at University, also participating in a BootCamp to become a Junior Full Stack Web Developer.
 - 🌱 I'm currently learning everything. 
 - 👯 I’m looking to collaborate with others on new projects and connecting with people.
 - ⚡ 2024 Goals: Contribute more to Open Source projects, studying more languages, and absorbing more knowledge of new technologies.
