@@ -3,10 +3,10 @@
 
 ## I'm a Student, Junior Developer, and Cook!!!!
 
-- 🔭 I just started in this world of coding, I am currently studying Information Systems at University, also participating in a BootCamp to become a Junior Full Stack Web Developer.
+- 🔭 I just started in this world of coding, I am currently studying Information Systems at University to become a Junior Full Stack Web Developer.
 - 🌱 I'm currently learning everything. 
 - 👯 I’m looking to collaborate with others on new projects and connecting with people.
-- ⚡ 2024 Goals: Contribute more to Open Source projects, studying more languages, and absorbing more knowledge of new technologies.
+- ⚡ 2022 Goals: Contribute more to Open Source projects, studying more languages, and absorbing more knowledge of new technologies.
 - 🥅 Fun fact: I love to draw, cook, and play video games.
 
 <div align="center">
@@ -22,7 +22,7 @@
   
   ### Languages and Tools:
   
-  <img align="center" alt="Rafa-Csharp" height="30" width="80" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="Rafa-C++" height="30" width="80" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   
   <img align="center" alt="Rafa-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   
